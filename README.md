@@ -7,3 +7,5 @@ php artisan key:generate
 npm install && npm run build
 
 php artisan migrate
+
+php artisan serve
